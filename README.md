@@ -10,3 +10,6 @@ The brainflow API already includes an inbuilt ML model which learns and gives us
 Objective of the game: To make a fun game out of focus level as we train our focus level to improve more and more in the form of a game.
 
 The devpost link to our hackathon is: https://devpost.com/software/neural-drive
+
+Due to issues with the size of github, we will be uploading the code of the game shortly.
+However, we have attached a video of us playing the game to this repo.
